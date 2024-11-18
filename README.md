@@ -1,14 +1,14 @@
 ## Hi 👋 i'm visao
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi!!;My+name+is+visaooo.;Welcome+to+my+profile!&center=true&size=27>
+    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi!!;My+name+is+visaoo.;Welcome+to+my+profile!&center=true&size=27>
   </a>
 </h1>
 
 <div>
-  <a href="https://github.com/visaooo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=visaooo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaooo&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/visaoo">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=visaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaoo&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
